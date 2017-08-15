@@ -5,7 +5,7 @@
 Hi! 
 
 Welcome to the GitHub repository for the .NET Ecosystem - the big picture Pluralsight course.
-This repository contains the examples for the Pluralsight course: [The .NET Ecosystem: The Big Picture](https://app.pluralsight.com/profile/author/barry-luijbregts).
+This repository contains the examples for the Pluralsight course: [The .NET Ecosystem: The Big Picture](https://app.pluralsight.com/library/courses/dotnet-ecosystem-big-picture).
 
 The solution consists of:
 
